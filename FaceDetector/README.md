@@ -10,7 +10,7 @@
 
 ✔️ Haar 小波基函数，因为其满足对称性，因此对人脸这种生物对称性良好的对象特别适合用来做检测。
 
-[!img](https://pic1.zhimg.com/80/v2-9d1555fafdc69b914beec8bf4d1de8d8_hd.jpg)
+[img](https://pic1.zhimg.com/80/v2-9d1555fafdc69b914beec8bf4d1de8d8_hd.jpg)
 
 小波函数
 常见的Haar特征分为三类：
