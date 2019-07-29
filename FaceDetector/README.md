@@ -161,7 +161,7 @@ https://github.com/JimmyHHua/opencv_tutorials.github.com
 
 **参考**
 
-👍👍👍- OpenCV Tutorial 官网
+👍👍👍- [OpenCV Tutorial 官网](https://link.zhihu.com/?target=https%3A//docs.opencv.org/4.0.0-alpha/d6/d00/tutorial_py_root.html)
 
 👍👍👍- cv2级联分类器CascadeClassifier
 
