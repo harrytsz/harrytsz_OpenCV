@@ -161,13 +161,13 @@ https://github.com/JimmyHHua/opencv_tutorials.github.com
 
 **参考**
 
-👍👍👍- [OpenCV Tutorial 官网](https://link.zhihu.com/?target=https%3A//docs.opencv.org/4.0.0-alpha/d6/d00/tutorial_py_root.html)
+👍👍👍- [OpenCV Tutorial 官网](https://docs.opencv.org/4.0.0-alpha/d6/d00/tutorial_py_root.html)
 
-👍👍👍- cv2级联分类器CascadeClassifier
+👍👍👍- [cv2级联分类器CascadeClassifier](https://blog.csdn.net/github_39611196/article/details/81240352)
 
-👍👍👍- 基于Haar特征的Adaboost级联人脸检测分类器
+👍👍👍- [基于Haar特征的Adaboost级联人脸检测分类器](https://blog.csdn.net/stdcoutzyx/article/details/34842233)
 
-👍👍👍-详解LBP特征与应用(人脸识别)
+👍👍👍- [详解LBP特征与应用(人脸识别)](https://mp.weixin.qq.com/s/Rm5HuERAA1j_7lE2HcyoqA)
 
 
   [1]: http://static.zybuluo.com/harrytsz/3e5nawfcw2l86yc1oa1901o6/image_1dgu20f2oj22jkm8ut1r4krv3p.png
